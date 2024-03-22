@@ -1,6 +1,6 @@
 {
-  "name": "@shinhwa2021/houseselling",
-  "version": "1.0.2",
+  "name": "doggy4fun",
+  "version": "1.0.1",
   "description": "",
   "type": "module",
   "main": "coin_scan_binance.js",
@@ -9,26 +9,26 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Shinhwa2021/houseselling"
+    "url": "https://github.com/wangxi2023/doggyfun"
   },
-  "website": "https://github.com/Shinhwa2021/houseselling.git",
+  "website": "https://github.com/wangxi2023/doggyfun.git",
   "keywords": [
     "binance",
     "client",
     "arbitrim"
   ],
-  "author": "shinhwa2021",
+  "author": "wangxi2023",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Shinhwa2021/houseselling/issues"
+    "url": "https://github.com/wangxi2023/doggyfun/issues"
   },
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org"
   },
-  "homepage": "https://github.com/Shinhwa2021/houseselling#readme",
+  "homepage": "https://github.com/wangxi2023/doggyfun#readme",
   "dependencies": {
     "@shinhwa2021/teaprotocol": "^1.0.6",
-    "feishu-notifier": "^1.0.3"
+    "@shinhwa2021/houseselling": "^1.0.3"
   }
 }
