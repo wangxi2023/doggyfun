@@ -1,9 +1,8 @@
 import axios from 'axios';
-import { axiosConfig } from '@moncici/proxy';
-import { sleep } from '@moncici/sleep';
-import { formatTimestamp } from '@moncici/date-time-processor';
-import { notify } from 'feishu-notifier';
-import { log } from '@moncici/log';
+import { axiosConfig } from '@shinhwa2021/proxy';
+import { sleep } from '@shinhwa2021/sleep';
+import { formatTimestamp } from '@shinhwa2021/date-time-processor';
+import { log } from '@shinhwa2021/log';
 
 const retryDuration = 1000;
 
